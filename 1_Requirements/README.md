@@ -1,4 +1,6 @@
 INTRODUCTION
+
+
 The HOTEL MANAGEMENT SYSTEM is built in stages to ensure the hotel's seamless operation and management. The system was meticulously constructed to assure the system's optimal efficiency at the hotel. The system can be skillfully and meticulously coded to close any potential loopholes. In addition to its competence in the hotel business field, the system will indeed assist hotel management and esteemed staff members in managing and steering the hotel's functionality and transactions to realize their maximum potential. The goal of the Online Hotel Management System project is to provide hotel management with an online room booking process. Due to significant losses incurred by the hotel as a result of the current manual method, the hotel management decided to implement a computerized system.
 
 
